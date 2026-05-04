@@ -1,182 +1,89 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Amrita%20Jadhav%20✨&fontSize=55&fontColor=fff&fontAlignY=38&desc=Frontend%20Dev%20%7C%20AI%20Explorer%20%7C%20Cybersecurity%20Curious%20🌸&descAlignY=60&descAlign=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3d9,50:ff6eb4,100:c44dff&height=180&section=header&text=✿%20Amrita%20Jadhav%20✿&fontSize=52&fontColor=fff&fontAlignY=40&desc=CS%20@%20VIT%20Bhopal%20·%20Frontend%20Dev%20·%20Cybersecurity%20Explorer&descAlignY=62&animation=twinkling" />
 
-</div>
+<br/>
 
-<div align="center">
-
-# 💖 Hey hey, I'm Amrita! 👋🏼
-
-### `< she codes, she vibes, she delivers />` 🌷
-
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=3000&pause=500&color=FF6EB4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Computer+Science+%40+VIT+Bhopal+%F0%9F%8E%93;Frontend+Dev+who+loves+making+things+pretty+%F0%9F%8C%B8;AI+%2B+Cybersecurity+girlie+in+the+making+%F0%9F%94%92" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=800&color=FF6EB4&center=true&vCenter=true&width=500&lines=she+codes+%F0%9F%8C%B8+she+secures+%F0%9F%94%92+she+delivers+%E2%9C%A8;frontend+magic+meets+ML+%F0%9F%A4%96;turning+coffee+into+commits+%E2%98%95%F0%9F%92%96" />
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-## 🌸 About Me
+### 🌸 `whoami`
 
-</div>
-
-```javascript
+```js
 const amrita = {
-  🎓 education: "B.Tech CS @ VIT Bhopal",
-  📍 location: "India 🇮🇳",
-  🔭 currently: ["React", "Django", "ML", "Pentesting basics"],
-  💬 askMeAbout: ["Frontend Magic ✨", "Python 🐍", "Data Viz 📊"],
-  📧 reach: "amritajhr16033@gmail.com",
-  🌷 funFact: "I make charts that are actually pretty 💅",
-};
+  📍 base: "India 🇮🇳",
+  🎓 uni: "VIT Bhopal · ",
+  💻 loves: ["React", "Django", "ML", "Pentesting basics"],
+  🌸 vibe: "pretty code & strong passwords",
+  📧 dm: "amritajhr16033@gmail.com"
+}
 ```
 
 ---
 
-<div align="center">
+### 💅 Stack
 
-## 💅 My Tech Stack
+**Languages** &nbsp;
+![C++](https://img.shields.io/badge/C++-ff6eb4?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffb3d9?style=flat-square&logo=python&logoColor=333)
+![Java](https://img.shields.io/badge/Java-c44dff?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ff85c0?style=flat-square&logo=mysql&logoColor=white)
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-FF6EB4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFB3D9?style=for-the-badge&logo=python&logoColor=333)
-![Java](https://img.shields.io/badge/Java-FF85C0?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FFCCE5?style=for-the-badge&logo=mysql&logoColor=333)
+**Frontend** &nbsp;
+![HTML](https://img.shields.io/badge/HTML-ff6eb4?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-c44dff?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-ffb3d9?style=flat-square&logo=javascript&logoColor=333)
+![React](https://img.shields.io/badge/React-ff85c0?style=flat-square&logo=react&logoColor=white)
 
-### 🌐 Frontend Vibes
-![HTML5](https://img.shields.io/badge/HTML5-FF6EB4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFB3D9?style=for-the-badge&logo=css3&logoColor=333)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFCCE5?style=for-the-badge&logo=javascript&logoColor=333)
-![React](https://img.shields.io/badge/React-FF85C0?style=for-the-badge&logo=react&logoColor=white)
+**Tools** &nbsp;
+![Django](https://img.shields.io/badge/Django-ff6eb4?style=flat-square&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-c44dff?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffb3d9?style=flat-square&logo=jupyter&logoColor=333)
+![Colab](https://img.shields.io/badge/Colab-ff85c0?style=flat-square&logo=googlecolab&logoColor=white)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-FF6EB4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=FF85C0)
-![VS Code](https://img.shields.io/badge/VSCode-FFB3D9?style=for-the-badge&logo=visualstudiocode&logoColor=333)
-![Google Colab](https://img.shields.io/badge/Colab-FFCCE5?style=for-the-badge&logo=googlecolab&logoColor=333)
-![Django](https://img.shields.io/badge/Django-FF6EB4?style=for-the-badge&logo=django&logoColor=white)
+---
 
-</div>
+### 🌺 Projects
+
+| 🌸 | Project | Vibe |
+|---|---|---|
+| 🕵🏻‍♀️ | **Network Intrusion Detector** | ML model · 98%+ accuracy · CICIDS 2017 · Random Forest |
+| ☁️ | **Multi-Layer Cloud Security Simulator** | Firewall · JWT auth · RBAC · JavaScript |
+| 🧪 | **Chemical Visualizer** | Django REST + React + PyQt5 · Pandas · Chart.js |
+| ⚡ | **EV Charging Demand Predictor** | Scikit-learn · NumPy · Google Colab |
+| 🔑 | **Strong Password Task** | Security fundamentals · validation logic |
+| 🔥 | **Cybersecurity Firewall Task** | Network security · hands-on practice |
+
+---
+
+### 🎀 Experience & Certs
+
+🏢 **AICTE Internship** — AI & Data Analytics · Green Skills · EV Case Study
+
+🏅 Google · TCS iON · Skillup Cybersecurity · MATLAB Onramp
+
+---
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmritaJadhav&show_icons=true&theme=radical&hide_border=true&bg_color=1a0010&title_color=FF6EB4&icon_color=c44dff&text_color=fff" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritaJadhav&theme=radical&hide_border=true&background=1a0010&ring=FF6EB4&fire=c44dff&currStreakLabel=FF6EB4" width="47%" />
 
 ---
 
 <div align="center">
 
-## 🌺 Projects I'm Proud Of
-
-</div>
-
-### 🧪 Chemical Equipment Parameter Visualizer
-> *Django + React + PyQt5 hybrid analytics platform — data so pretty it could be art 🎨*
-
-- 📊 Built a full-stack platform integrating **Django REST API** with both **React** (web) & **PyQt5** (desktop)
-- 🐼 Data processing & analysis with **Pandas** — cleaned up messy data like a queen 👑
-- 📈 Interactive visualizations using **Chart.js** & **Matplotlib**
-- 📄 CSV parsing, dataset history tracking & PDF report generation
-
----
-
-### ⚡ EV Vehicle/Charging Demand Prediction
-> *ML model predicting the future of clean energy 🌿*
-
-- 🤖 Developed a **machine learning model** to predict EV charging demand
-- 🧹 Data preprocessing & analysis using **Pandas + NumPy**
-- 🔬 Trained & evaluated on **Google Colab**
-- 🎯 Improved accuracy through smart feature selection ✨
-
----
-
-### 🕵🏻‍♀️ Network Intrusion Detector
-> *98%+ accuracy? Yeah, she's built different 🔥*
-
-- 🤖 Built an **ML model** that detects cyberattacks in **real-time network traffic**
-- 📦 Trained on the **CICIDS 2017 dataset** using **Random Forest**
-- ⭐ Starred by the community — 2 stars & counting!
-- 🛠️ Built with **Jupyter Notebook & Python**
-
----
-
-### ☁️ Multi-Layer Cloud Security Simulator
-> *Layered protection, JWT auth, RBAC — security queen behaviour 👑*
-
-- 🔐 Designed a **multi-layer cloud security simulator** demonstrating real-world protection
-- 🧱 Implements **firewall filtering**, **JWT authentication** & **role-based access control**
-- 🌐 Built with **JavaScript**
-
----
-
-### 🔑 Strong Password Task
-> *Because "password123" is NOT it, bestie 🚫*
-
-- A cybersecurity task project focused on **password strength validation**
-- Hands-on practice in security fundamentals
-
----
-
-### 🔥 Cybersecurity Firewall Task
-> *Keeping the bad guys out, one rule at a time 🛡️*
-
-- Firewall implementation task exploring network security concepts
-- Part of ongoing cybersecurity skill-building journey 🌱
-
----
-
-<div align="center">
-
-## 🎀 Experience
-
-</div>
-
-> 🏢 **AICTE Internship** — *AI & Data Analytics focused on Green Skills*
-> - Got hands-on with **Machine Learning concepts & workflows** 🧠
-> - Worked on a real-world case: **EV Vehicle & Charging Demand Prediction** 🚗⚡
-> - Used **Jupyter Notebook, Pandas, NumPy, Scikit-learn** like a pro
-
----
-
-<div align="center">
-
-## 🏅 Certifications
-
-| 🌸 Certificate | 🏢 Issuer |
-|:---|:---|
-| The Bits & Bytes of Computer Networking | Google 🌐 |
-| TCS ion Career Edge – Young Professional | TATA 🔵 |
-| Introduction to Cybersecurity | Skillup 🔐 |
-| Matlab Onramp | MathWorks 📐 |
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmritaJadhav&show_icons=true&theme=radical&hide_border=true&bg_color=1a0010&title_color=FF6EB4&icon_color=FFB3D9&text_color=fff&ring_color=FF6EB4" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritaJadhav&theme=radical&hide_border=true&background=1a0010&ring=FF6EB4&fire=FFB3D9&currStreakLabel=FF6EB4" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritaJadhav&layout=compact&theme=radical&hide_border=true&bg_color=1a0010&title_color=FF6EB4&text_color=fff" width="50%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌷 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6EB4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6eb4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a0010?style=for-the-badge&logo=github&logoColor=FF85C0)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-FFB3D9?style=for-the-badge&logo=gmail&logoColor=333)](mailto:amritajhr16033@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-c44dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritajhr16033@gmail.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,50:ff6eb4,100:ffb3d9&height=120&section=footer&animation=twinkling"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" />
-
-*✨ made with love, caffeine & a lil bit of CSS chaos ✨*
+*✿ crafted with pink energy & python scripts ✿*
 
 </div>

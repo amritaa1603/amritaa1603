@@ -21,9 +21,9 @@
 const amrita = {
   📍 base: "India 🇮🇳",
   🎓 uni: "VIT Bhopal ",
-  💻 loves: ["React", "Django", "ML", "Pentesting"],
+  💻 loves: ["React", "Django", "ML", "Pentesting basics"],
   🌸 vibe: "pretty code & strong passwords",
-  📧 dm: "amritajhr16033@gmail.com"
+  📧 dm: "amritajdhv16033@gmail.com"
 }
 ```
 

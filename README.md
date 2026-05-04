@@ -28,7 +28,7 @@ const amrita = {
 ```
 
 </td>
-<td valign="middle" align="center" width="35%">
+<td valign="center" align="center" width="35%">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" style="border-radius: 16px;" />
 

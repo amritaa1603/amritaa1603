@@ -10,19 +10,30 @@
 
 ---
 
-<img align="right" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<table>
+<tr>
+<td valign="top" width="65%">
 
 ### 🌸 `whoami`
 
 ```js
 const amrita = {
   📍 base: "India 🇮🇳",
-  🎓 uni: "VIT Bhopal · ",
-  💻 loves: ["React", "Django", "ML", "Pentesting basics"],
+  🎓 uni: "VIT Bhopal · CGPA 8.66",
+  💻 loves: ["React", "Django", "ML", "Pentesting"],
   🌸 vibe: "pretty code & strong passwords",
   📧 dm: "amritajhr16033@gmail.com"
 }
 ```
+
+</td>
+<td valign="middle" align="center" width="35%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" style="border-radius: 16px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,10 +80,14 @@ const amrita = {
 
 ---
 
+<div align="center">
+
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=amritaa1603&show_icons=true&theme=radical&hide_border=true&bg_color=1a0010&title_color=FF6EB4&icon_color=c44dff&text_color=fff" width="47%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritaa1603&theme=radical&hide_border=true&background=1a0010&ring=FF6EB4&fire=c44dff&currStreakLabel=FF6EB4" width="47%" />
+
+</div>
 
 ---
 

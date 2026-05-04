@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### 🌸 `whoami`
 
@@ -71,8 +71,8 @@ const amrita = {
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmritaJadhav&show_icons=true&theme=radical&hide_border=true&bg_color=1a0010&title_color=FF6EB4&icon_color=c44dff&text_color=fff" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritaJadhav&theme=radical&hide_border=true&background=1a0010&ring=FF6EB4&fire=c44dff&currStreakLabel=FF6EB4" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amritaa1603&show_icons=true&theme=radical&hide_border=true&bg_color=1a0010&title_color=FF6EB4&icon_color=c44dff&text_color=fff" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritaa1603&theme=radical&hide_border=true&background=1a0010&ring=FF6EB4&fire=c44dff&currStreakLabel=FF6EB4" width="47%" />
 
 ---
 

@@ -10,7 +10,8 @@
 
 ---
 
-<table>
+<div align="center>
+  <table>
 <tr>
 <td valign="top" width="65%">
 
@@ -19,7 +20,7 @@
 ```js
 const amrita = {
   📍 base: "India 🇮🇳",
-  🎓 uni: "VIT Bhopal · CGPA 8.66",
+  🎓 uni: "VIT Bhopal ",
   💻 loves: ["React", "Django", "ML", "Pentesting"],
   🌸 vibe: "pretty code & strong passwords",
   📧 dm: "amritajhr16033@gmail.com"
@@ -34,6 +35,7 @@ const amrita = {
 </td>
 </tr>
 </table>
+</div>
 
 ---
 

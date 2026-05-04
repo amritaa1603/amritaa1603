@@ -7,7 +7,7 @@
 
 **A passionate CS student building the web — one component at a time 🚀**
 
-📍 VIT Bhopal University | 3rd Year Int. M.Tech | CGPA: 8.66
+📍 VIT Bhopal University | 3rd Year Int. M.Tech 
 
 [![Gmail](https://img.shields.io/badge/Gmail-amritajdhr16033%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amritajdhr16033@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amrita_Jadhav-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -100,10 +100,10 @@
 
 ### 🎓 Education
 
-| 🏫 Institution | 📚 Degree | 📅 Duration | 🏆 Score |
+| 🏫 Institution | 📚 Degree | 📅 Duration 
 |---|---|---|---|
-| VIT Bhopal University | Int. M.Tech — CSE | June 2023 – Present | CGPA: 8.66 |
-| Holy Angels HR. SEC. School, Ashta M.P | Class XII — M.P Board | April 2022 – May 2023 | 90.2% |
+| VIT Bhopal University | Int. M.Tech — CSE | June 2023 – Present 
+| Holy Angels HR. SEC. School, Ashta M.P | Class XII — M.P Board | April 2022 – May 2023 
 
 ---
 

@@ -78,22 +78,12 @@ const amrita = {
 
 ---
 
-<div align="center">
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=amritaa1603&show_icons=true&theme=radical&hide_border=true&bg_color=1a0010&title_color=FF6EB4&icon_color=c44dff&text_color=fff" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritaa1603&theme=radical&hide_border=true&background=1a0010&ring=FF6EB4&fire=c44dff&currStreakLabel=FF6EB4" width="47%" />
-
-</div>
-
----
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6eb4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a0010?style=for-the-badge&logo=github&logoColor=FF85C0)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-c44dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritajhr16033@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6eb4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-jadhav-3ba11728a/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0010?style=for-the-badge&logo=github&logoColor=FF85C0)](https://github.com/amritaa1603/)
+[![Gmail](https://img.shields.io/badge/Gmail-c44dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritajdhv16033@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,50:ff6eb4,100:ffb3d9&height=120&section=footer&animation=twinkling"/>
 

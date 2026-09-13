@@ -131,8 +131,7 @@ Check out my pinned repos for additional builds, including inventory & platform 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritaa1603&theme=dark&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritaa1603&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" width="90%" />
+
 </p>
 
 ---

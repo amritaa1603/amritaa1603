@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/matrix-banner.gif" alt="Amrita Jadhav" width="800">
+<img src="assets-matrix-banner.gif" alt="Amrita Jadhav" width="800">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=600&lines=root%40amrita%3A~%24+whoami;Application+Security+%2F+SOC+Enthusiast;Currently+hardening+a+codebase..." alt="Typing SVG" />
 

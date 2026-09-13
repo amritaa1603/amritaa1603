@@ -8,7 +8,7 @@
 
 ---
 
-### `$ cat about.txt`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=400&lines=%24+cat+about.txt" alt="$ cat about.txt" />
 
 ```bash
 > CSE student @ VIT Bhopal, specializing in Cybersecurity
@@ -21,7 +21,7 @@
 
 ---
 
-### `$ cat experience.log`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=400&lines=%24+cat+experience.log" alt="$ cat experience.log" />
 
 **Security Analyst Intern** — ParshWebCraft · Udaipur, India (Remote) `Jun 2026 – Present`
 
@@ -33,7 +33,7 @@
 
 ---
 
-### `$ ls ./projects`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=400&lines=%24+ls+./projects" alt="$ ls ./projects" />
 
 <table>
 <tr>
@@ -74,7 +74,7 @@ Check out my pinned repos for additional builds, including inventory & platform 
 
 ---
 
-### `$ cat skills.json`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=400&lines=%24+cat+skills.json" alt="$ cat skills.json" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
@@ -114,20 +114,30 @@ Check out my pinned repos for additional builds, including inventory & platform 
 
 ---
 
-### `$ ./run_stats.sh`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=400&lines=%24+cat+certifications.log" alt="$ cat certifications.log" />
+
+- **Introduction to Cybersecurity** — Cisco Networking Academy
+- **The Bits and Bytes of Computer Networking** — Google / Coursera
+- **Google IT Support Certificate** — Google / Coursera
+- **TCS iON Career Edge — Young Professional** — TATA Consultancy Services
+
+
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=400&lines=%24+./run_stats.sh" alt="$ ./run_stats.sh" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritaa1603&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritaa1603&theme=dark&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritaa1603&theme=dark&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaa1603&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritaa1603&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" width="90%" />
 </p>
 
 ---
 
-### `$ cat connect.sh`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=400&lines=%24+cat+connect.sh" alt="$ cat connect.sh" />
 
 <p align="center">
   <a href="mailto:amritajdhv16033@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail" /></a>
